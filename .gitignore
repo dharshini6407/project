@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Node dependencies
+node_modules/
+
+# ... other ignores ...
